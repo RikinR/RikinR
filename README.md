@@ -30,7 +30,7 @@
   <img src="https://media.licdn.com/dms/image/C5112AQF49DOfOhCFSA/article-cover_image-shrink_720_1280/0/1579816811751?e=2147483647&v=beta&t=e47GGJDzoqsm4dl3qV2EjVWrxyMzIwsPmEE9Gywo83w" height="40" alt="API logo"  />
 </div>
 
-<img align="right" height="275" src="https://media1.tenor.com/m/1dc7bCt_nloAAAAC/onimai-mahiro.gif"  />
+<img align="right" height="250" src="https://media1.tenor.com/m/1dc7bCt_nloAAAAC/onimai-mahiro.gif"  />
 
 ###
 
