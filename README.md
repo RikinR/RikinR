@@ -1,4 +1,8 @@
 <h2 align="left">Hi !👋 My name is Rikin and I'm a Flutter Developer.</h2>
+<br clear="both">
+<div align ="center">
+<img src="https://raw.githubusercontent.com/rikinr/rikinr/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
@@ -55,8 +59,8 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/rikinr/rikinr/output/snake.svg" alt="Snake animation" />
+
+
 
 ###
