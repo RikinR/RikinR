@@ -31,9 +31,9 @@
 
   **ABOUT ME:**
   
-- 🔭 I’m currently working on: **Freelance Projects**
+- 🔭 I’m currently working on: **Internship**
 
-- 🌱 I’m currently learning: **blockchain technology**
+- 🌱 I’m currently learning: **Machine Learning**
 
 - 💬 Ask me about: **Technology , Anime , Music and Geopolitics**
 
